@@ -1,0 +1,43 @@
+#navbar .logo{
+    float: none;
+    text-align: center;
+}
+
+#navbar ul,#navbar ul li {
+    float:none;
+}
+#navbar ul li a{
+    padding: 5px;
+    border-bottom:#444 dotted 1px;
+}
+#home-info .info-img{
+    display: none;
+}
+#home-info .info-content{
+    float: none;
+    width:100% ;
+}
+.box{
+    width: 100%;
+    float: none;
+}
+#about-info .info-right,
+#about-info .info-left{
+    float: none;
+    width: 100%;
+}
+
+#about-info{
+    margin-top: 30px ;
+}
+.l-heading{
+    text-align: center;
+    line-height: 1.2em;
+}
+#testimonials{
+    width: 100%;
+    float: none;
+}
+#contact-info .box{
+    border-bottom: #ddd dotted 1px;
+}
